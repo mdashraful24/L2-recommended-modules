@@ -57,4 +57,3 @@ console.log(stack.pop());
 
 
 // Stack --> LIFO (Last In First Out). Basic terminology or operations: Push, Pop, Peek, Length.
-// Queue --> FIFO (First In First Out)
