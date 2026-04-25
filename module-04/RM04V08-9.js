@@ -20,7 +20,7 @@ const selectionSort = (array) => {
             // array[i] = array[minIndex];
             // array[minIndex] = temp;
 
-            [array[i], array[minIndex]] = [array[minIndex], array[i]];
+            [array[i], array[minIndex]] = [array[minIndex], array[i]]; // ES6 er syntax
         }
 
         console.log(`After pass ${i + 1}`, array);
